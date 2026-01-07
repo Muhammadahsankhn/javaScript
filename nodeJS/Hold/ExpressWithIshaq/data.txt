@@ -1,0 +1,2 @@
+data1=Ahsan&data2=khan
+data1=Ahsan&data2=khanbvjb
